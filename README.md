@@ -1181,6 +1181,7 @@ Where to discover learning resources or new Python libraries.
 * [Pycoder's Weekly](https://pycoders.com/)
 * [Python Tricks](https://realpython.com/python-tricks/)
 * [Python Weekly](https://www.pythonweekly.com/)
+* [Python Module of the Week](https://pymotw.com/)
 
 ## Podcasts
 
